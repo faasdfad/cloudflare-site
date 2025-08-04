@@ -114,3 +114,8 @@ img {
     box-sizing: border-box;
   }
 }
+@media (max-width: 600px) {
+  nav ul {
+    flex-wrap: wrap !important;
+  }
+}
